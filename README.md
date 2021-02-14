@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Airlines reviews app created with Rails API and React as front end.
 
-Things you may want to cover:
+Tools:
+- React styled-components
+- React Router
+- Rails API
+- Insomnia (to test API)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
