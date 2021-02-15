@@ -13,11 +13,13 @@ const Header = styled.div`
   padding: 100px 100px 10px 100px;
   h1 {
     font-size: 42px;
+    color: black;
   }
 `;
 const Subheader = styled.div`
   font-weight: 300;
   font-size: 26px;
+  color: black;
 `;
 const Grid = styled.div`
   display: grid;
@@ -45,8 +47,8 @@ const Airlines = () => {
   return (
     <Home>
       <Header>
-        <h1>OpenFlights</h1>
-        <Subheader>Honest, unbiased airline reviews</Subheader>
+        <h1>Flightsy</h1>
+        <Subheader>Simply the best airline's reviews</Subheader>
       </Header>
       <Grid>{grid}</Grid>
     </Home>

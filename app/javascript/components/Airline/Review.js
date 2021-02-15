@@ -4,6 +4,7 @@ import Rating from "../Rating/Rating";
 
 const Card = styled.div`
   border: 1px solid rgba(0, 0, 0, 0.3);
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
   border-radius: 4px;
   padding: 20px;
   margin: 0 20px 20px 0;

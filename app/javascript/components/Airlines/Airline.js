@@ -5,8 +5,10 @@ import Rating from "../Rating/Rating";
 
 const Card = styled.div`
   border: 1px solid #efefef;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
   background: #fff;
   text-align: center;
+  border-radius: 4px;
 `;
 const AirlineLogo = styled.div`
   width: 50px;
@@ -20,6 +22,7 @@ const AirlineLogo = styled.div`
     width: 50px;
     border-radius: 100%;
     border: 1px solid #efefef;
+    background-color: #fff;
   }
 `;
 const AirlineName = styled.div`
@@ -31,7 +34,7 @@ const LinkWrapper = styled.div`
 
   a {
     color: #fff;
-    background: #000;
+    background: #0cca4a;
     border-radius: 4px;
     padding: 10px 50px;
     border: 1px solid #000;
