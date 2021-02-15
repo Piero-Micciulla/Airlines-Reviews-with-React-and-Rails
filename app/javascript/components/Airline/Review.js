@@ -25,6 +25,7 @@ const Description = styled.div`
 
 const Review = (props) => {
   const { score, title, description } = props.attributes;
+
   return (
     <Card>
       <RatingContainer>
