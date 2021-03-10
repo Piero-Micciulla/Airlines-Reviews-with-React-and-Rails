@@ -1,6 +1,8 @@
-# README
+# FLIGHTSY
 
-Airlines reviews app created with Rails API and React as front end.
+This project is relatively simpler but inclused Rails configuartion with React as a front end. 
+
+
 
 Tools:
 - React styled-components
